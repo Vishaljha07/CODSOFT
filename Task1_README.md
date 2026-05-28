@@ -3,6 +3,7 @@
 ## 📌 Internship Task
 
 **Internship:** CodSoft
+
 **Task:** Task 1 – Spam SMS Detection
 
 ---
